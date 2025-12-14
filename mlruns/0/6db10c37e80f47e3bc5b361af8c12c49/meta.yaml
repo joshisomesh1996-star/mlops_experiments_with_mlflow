@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Mtech/Projects/MLOps/mlops_experiments_with_mlflow/mlruns/0/6db10c37e80f47e3bc5b361af8c12c49/artifacts
+end_time: 1765718574327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db10c37e80f47e3bc5b361af8c12c49
+run_name: bold-cow-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765718574197
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Mtech/Projects/MLOps/mlops_experiments_with_mlflow/mlruns/0/ad62a90aa9bd48a692139035adb5a828/artifacts
+end_time: 1765718396656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad62a90aa9bd48a692139035adb5a828
+run_name: upbeat-calf-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765718396300
+status: 3
+tags: []
+user_id: Lenovo
